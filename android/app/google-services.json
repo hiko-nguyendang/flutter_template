@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503796077529",
+    "firebase_url": "https://agreen-81aa7-default-rtdb.firebaseio.com",
+    "project_id": "agreen-81aa7",
+    "storage_bucket": "agreen-81aa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503796077529:android:bd38870111cd962be5ffc8",
+        "android_client_info": {
+          "package_name": "com.enlabsoftware.agreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503796077529-cvelduna06cgjnsn14fvui1omavnfidb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAofQP54JlISfLhqFjFzRKfHjvZWYWupew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503796077529-cvelduna06cgjnsn14fvui1omavnfidb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

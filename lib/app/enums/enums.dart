@@ -1,0 +1,24 @@
+import 'package:get/get.dart';
+import 'package:agree_n/generated/locales.g.dart';
+
+part 'ui.enum.dart';
+part 'term.enum.dart';
+part 'unit.enum.dart';
+part 'role.enum.dart';
+part 'offer.enum.dart';
+part 'language.enum.dart';
+part 'audience.enum.dart';
+part 'contract.enum.dart';
+part 'currency.enum.dart';
+part 'datetime.enum.dart';
+part 'permission.enum.dart';
+part 'score_type.enum.dart';
+part 'api_status.enum.dart';
+part 'cover_month.enum.dart';
+part 'negotiation.enum.dart';
+part 'message_type.enum.dart';
+part 'conversation.enum.dart';
+part 'notification.enum.dart';
+part 'other_service.enum.dart';
+part 'file_upload_type.enum.dart';
+part 'weather_location.enum.dart';
